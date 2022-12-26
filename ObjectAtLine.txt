@@ -1,0 +1,11 @@
+#format:lineNumber,balabala,ObjectName
+#split by [,]
+#lineNumber is relative to the entire file
+#lineNumber:log("balabala:"+ObjectName)
+#for example
+#7,,num
+#7,dididi,
+#7,before,num
+
+8,Before,num
+9,After,num
